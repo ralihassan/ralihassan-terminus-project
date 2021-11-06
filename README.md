@@ -1,6 +1,6 @@
 # terminus-project
 
-This is a sample spring boot application to save and retrieve person's details like name, email and phone number using Hibernate, Spring Data and MySQL.
+This is a sample spring boot application to save and retrieve person's details like name, email and phone number using Hibernate, Spring Data and MySQL. Please visit localhost:8080 after starting the project to view the running app.
 
 # REST End Points Details
 
